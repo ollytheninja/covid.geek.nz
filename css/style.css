@@ -1,0 +1,24 @@
+.stripes{
+  background: repeating-linear-gradient(
+  -45deg,
+  #fbff00,
+  #fbff00 25px,
+  #fff0 25px,
+  #fff0 50px
+)
+}
+
+#nav-title{
+  background-color: #fbff00;
+  color: black;
+  padding: 5px 10px;
+}
+
+.alert{
+  text-align: center;
+}
+
+.btn-yellow{
+background-color: #fbff00;
+border-color: #fbff00;
+}
