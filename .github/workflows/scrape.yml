@@ -42,6 +42,6 @@ jobs:
 
         git add .
         
-        git commit -a -m "New data"
+        git commit -a -m "New data" || exit 0
 
         git push github HEAD:${GITHUB_REF}
