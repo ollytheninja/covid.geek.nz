@@ -31,10 +31,22 @@ def nz_tests():
     scrape_table(output_path, output_filename, url, fields, start)
 
 
-def run():
-    nz_dhb_cases()
-    nz_tests()
+def nz_dhb_cases_hospital():
+    output_filename = "nz_dhb_cases_hospital"
 
+    url = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases"
+
+    fields = {'dhb': str, 'cases': int}
+
+    start = "Total cases in hospital by DHB</h2>"
+
+    scrape_table(output_path, output_filename, url, fields, start, skip_totals=True)
+
+
+def run():
+    # nz_dhb_cases()
+    # nz_tests()
+    nz_dhb_cases_hospital()
 
 if __name__ == "__main__":
     run()
