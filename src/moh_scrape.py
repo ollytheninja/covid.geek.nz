@@ -1,10 +1,11 @@
 from pathlib import Path
 
-from src.lib import scrape_table
+from lib import scrape_table
+
+output_path = Path("data/")
 
 
 def nz_dhb_cases():
-    output_path = Path("../data/")
     output_filename = "nz_dhb_cases"
 
     url = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases"
@@ -17,7 +18,6 @@ def nz_dhb_cases():
 
 
 def nz_tests():
-    output_path = Path("../data/")
     output_filename = "nz_tests"
     output_path.mkdir(parents=True, exist_ok=True)
 

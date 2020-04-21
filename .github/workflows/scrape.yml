@@ -1,0 +1,45 @@
+name: scraper
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.7'
+
+    - uses: actions/checkout@v1
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Scrape
+      run: |
+        python src/moh_scrape.py
+
+    - name: Commit
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run:
+        git config --local user.email "scraper@covid.geek.nz"
+
+        git config --local user.name "Scraper Bot"
+
+        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+
+        git pull github ${GITHUB_REF} --ff-only
+
+        git commit -a -m "New data"
+
+        git push github HEAD:${GITHUB_REF}
