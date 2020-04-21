@@ -40,6 +40,8 @@ jobs:
 
         git pull github ${GITHUB_REF} --ff-only
 
+        git add .
+        
         git commit -a -m "New data"
 
         git push github HEAD:${GITHUB_REF}
