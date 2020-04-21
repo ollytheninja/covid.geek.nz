@@ -1,0 +1,169 @@
+{
+    "_meta": {
+        "retrieved_utc": "2020-04-21T10:01:08.945852+00:00",
+        "retrieved_nzst": "2020-04-21T22:01:08.945852+12:00",
+        "url": "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases"
+    },
+    "data": [
+        {
+            "dhb": "Auckland",
+            "active": 41,
+            "recovered": 145,
+            "deceased": "",
+            "total": 186,
+            "delta": 1
+        },
+        {
+            "dhb": "Bay of Plenty",
+            "active": 14,
+            "recovered": 33,
+            "deceased": "",
+            "total": 47,
+            "delta": 1
+        },
+        {
+            "dhb": "Canterbury",
+            "active": 63,
+            "recovered": 84,
+            "deceased": 7,
+            "total": 154,
+            "delta": 1
+        },
+        {
+            "dhb": "Capital and Coast",
+            "active": 29,
+            "recovered": 64,
+            "deceased": 2,
+            "total": 95,
+            "delta": 2
+        },
+        {
+            "dhb": "Counties Manukau",
+            "active": 22,
+            "recovered": 89,
+            "deceased": "",
+            "total": 111,
+            "delta": 0
+        },
+        {
+            "dhb": "Hawke&#39;s Bay",
+            "active": 15,
+            "recovered": 26,
+            "deceased": "",
+            "total": 41,
+            "delta": 0
+        },
+        {
+            "dhb": "Hutt Valley",
+            "active": 5,
+            "recovered": 15,
+            "deceased": "",
+            "total": 20,
+            "delta": 0
+        },
+        {
+            "dhb": "Lakes",
+            "active": 4,
+            "recovered": 12,
+            "deceased": "",
+            "total": 16,
+            "delta": 0
+        },
+        {
+            "dhb": "Mid Central",
+            "active": 3,
+            "recovered": 28,
+            "deceased": "",
+            "total": 31,
+            "delta": 0
+        },
+        {
+            "dhb": "Nelson Marlborough",
+            "active": 7,
+            "recovered": 41,
+            "deceased": "",
+            "total": 48,
+            "delta": 0
+        },
+        {
+            "dhb": "Northland",
+            "active": 13,
+            "recovered": 14,
+            "deceased": "",
+            "total": 27,
+            "delta": -1
+        },
+        {
+            "dhb": "South Canterbury",
+            "active": 10,
+            "recovered": 6,
+            "deceased": "",
+            "total": 16,
+            "delta": 0
+        },
+        {
+            "dhb": "Southern",
+            "active": 36,
+            "recovered": 179,
+            "deceased": 1,
+            "total": 216,
+            "delta": 0
+        },
+        {
+            "dhb": "Tairawhiti",
+            "active": 3,
+            "recovered": 1,
+            "deceased": "",
+            "total": 4,
+            "delta": 0
+        },
+        {
+            "dhb": "Taranaki",
+            "active": 3,
+            "recovered": 11,
+            "deceased": "",
+            "total": 14,
+            "delta": 0
+        },
+        {
+            "dhb": "Waikato",
+            "active": 84,
+            "recovered": 100,
+            "deceased": 1,
+            "total": 185,
+            "delta": 0
+        },
+        {
+            "dhb": "Wairarapa",
+            "active": 0,
+            "recovered": 8,
+            "deceased": "",
+            "total": 8,
+            "delta": 0
+        },
+        {
+            "dhb": "Waitemata",
+            "active": 71,
+            "recovered": 140,
+            "deceased": 1,
+            "total": 212,
+            "delta": 0
+        },
+        {
+            "dhb": "West Coast",
+            "active": 1,
+            "recovered": 3,
+            "deceased": 1,
+            "total": 5,
+            "delta": 0
+        },
+        {
+            "dhb": "Whanganui",
+            "active": 2,
+            "recovered": 7,
+            "deceased": "",
+            "total": 9,
+            "delta": 1
+        }
+    ]
+}

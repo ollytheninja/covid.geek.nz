@@ -1,0 +1,229 @@
+{
+    "_meta": {
+        "retrieved_utc": "2020-04-21T09:36:39.488560+00:00",
+        "retrieved_nzst": "2020-04-21T21:36:39.488560+12:00",
+        "url": "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases"
+    },
+    "data": [
+        {
+            "date": "22 Jan - 8 Mar",
+            "count": "",
+            "total": 300
+        },
+        {
+            "date": "9-Mar",
+            "count": 12,
+            "total": 312
+        },
+        {
+            "date": "10-Mar",
+            "count": 89,
+            "total": 401
+        },
+        {
+            "date": "11-Mar",
+            "count": 83,
+            "total": 484
+        },
+        {
+            "date": "12-Mar",
+            "count": 31,
+            "total": 515
+        },
+        {
+            "date": "13-Mar",
+            "count": 35,
+            "total": 550
+        },
+        {
+            "date": "14-Mar",
+            "count": 34,
+            "total": 584
+        },
+        {
+            "date": "15-Mar",
+            "count": 142,
+            "total": 726
+        },
+        {
+            "date": "16-Mar",
+            "count": 325,
+            "total": 1051
+        },
+        {
+            "date": "17-Mar",
+            "count": 659,
+            "total": 1710
+        },
+        {
+            "date": "18-Mar",
+            "count": 1209,
+            "total": 2919
+        },
+        {
+            "date": "19-Mar",
+            "count": 1291,
+            "total": 4210
+        },
+        {
+            "date": "20-Mar",
+            "count": 1554,
+            "total": 5764
+        },
+        {
+            "date": "21-Mar",
+            "count": 1176,
+            "total": 6940
+        },
+        {
+            "date": "22-Mar",
+            "count": 1256,
+            "total": 8196
+        },
+        {
+            "date": "23-Mar",
+            "count": 1050,
+            "total": 9246
+        },
+        {
+            "date": "24-Mar",
+            "count": 1544,
+            "total": 10790
+        },
+        {
+            "date": "25-Mar",
+            "count": 2592,
+            "total": 13382
+        },
+        {
+            "date": "26-Mar",
+            "count": 2117,
+            "total": 15499
+        },
+        {
+            "date": "27-Mar",
+            "count": 2067,
+            "total": 17566
+        },
+        {
+            "date": "28-Mar",
+            "count": 1809,
+            "total": 19375
+        },
+        {
+            "date": "29-Mar",
+            "count": 918,
+            "total": 20293
+        },
+        {
+            "date": "30-Mar",
+            "count": 1391,
+            "total": 21684
+        },
+        {
+            "date": "31-Mar",
+            "count": 2093,
+            "total": 23777
+        },
+        {
+            "date": "1-Apr",
+            "count": 2562,
+            "total": 26339
+        },
+        {
+            "date": "2-Apr",
+            "count": 3446,
+            "total": 29785
+        },
+        {
+            "date": "3-Apr",
+            "count": 3631,
+            "total": 33416
+        },
+        {
+            "date": "4-Apr",
+            "count": 3093,
+            "total": 36509
+        },
+        {
+            "date": "5-Apr",
+            "count": 3709,
+            "total": 40218
+        },
+        {
+            "date": "6-Apr",
+            "count": 2908,
+            "total": 43126
+        },
+        {
+            "date": "7-Apr",
+            "count": 4049,
+            "total": 47175
+        },
+        {
+            "date": "8-Apr",
+            "count": 3990,
+            "total": 51165
+        },
+        {
+            "date": "9-Apr",
+            "count": 4520,
+            "total": 55685
+        },
+        {
+            "date": "10-Apr",
+            "count": 3061,
+            "total": 58746
+        },
+        {
+            "date": "11-Apr",
+            "count": 2421,
+            "total": 61167
+        },
+        {
+            "date": "12-Apr",
+            "count": 1660,
+            "total": 62827
+        },
+        {
+            "date": "13-Apr",
+            "count": 1572,
+            "total": 64399
+        },
+        {
+            "date": "14-Apr",
+            "count": 2100,
+            "total": 66499
+        },
+        {
+            "date": "15-Apr",
+            "count": 3661,
+            "total": 70160
+        },
+        {
+            "date": "16-Apr",
+            "count": 4241,
+            "total": 74401
+        },
+        {
+            "date": "17-Apr",
+            "count": 4677,
+            "total": 79078
+        },
+        {
+            "date": "18-Apr",
+            "count": 4146,
+            "total": 83224
+        },
+        {
+            "date": "19-Apr",
+            "count": 3081,
+            "total": 86305
+        },
+        {
+            "date": "20-Apr",
+            "count": 3203,
+            "total": 89508
+        }
+    ]
+}
