@@ -43,10 +43,23 @@ def nz_dhb_cases_hospital():
     scrape_table(output_path, output_filename, url, fields, start, skip_totals=True)
 
 
+def nz_tests_by_region():
+    output_filename = "nz_tests_by_region"
+
+    url = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases/covid-19-testing-region"
+
+    fields = {'region': str, 'num_people': int, 'pct_people': str, 'num_tests': int, 'pop': int, 'rate_per_100': float}
+
+    start = "Tests by DHB of residence as at"
+
+    scrape_table(output_path, output_filename, url, fields, start, skip_totals=True)
+
+
 def run():
-    # nz_dhb_cases()
-    # nz_tests()
+    nz_dhb_cases()
+    nz_tests()
     nz_dhb_cases_hospital()
+    nz_tests_by_region()
 
 if __name__ == "__main__":
     run()
