@@ -25,8 +25,6 @@ def scrape_table(output_path, output_filename, url, fields, start, skip_totals=F
 
     output = {
         "_meta": {
-            "retrieved_utc": now.isoformat(),
-            "retrieved_nzst": now.astimezone(nzst).isoformat(),
             "url": url,
         },
         "data": []
