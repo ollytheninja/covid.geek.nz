@@ -5,171 +5,171 @@
     "data": [
         {
             "region": "Auckland",
-            "num_people": 7247,
-            "pct_people": "12.2%",
+            "num_people": 8676,
+            "pct_people": "11.4%",
             "num_tests": "",
             "pop": 548500,
-            "rate_per_100": 13.2
+            "rate_per_100": 15.8
         },
         {
             "region": "Bay of Plenty",
-            "num_people": 2338,
-            "pct_people": "3.9%",
+            "num_people": 3061,
+            "pct_people": "4.0%",
             "num_tests": "",
             "pop": 241500,
-            "rate_per_100": 9.7
+            "rate_per_100": 12.7
         },
         {
             "region": "Canterbury",
-            "num_people": 5104,
-            "pct_people": "8.6%",
+            "num_people": 7068,
+            "pct_people": "9.3%",
             "num_tests": "",
             "pop": 573700,
-            "rate_per_100": 8.9
-        },
-        {
-            "region": "Capital and Coast",
-            "num_people": 4361,
-            "pct_people": "7.3%",
-            "num_tests": "",
-            "pop": 322000,
-            "rate_per_100": 13.5
-        },
-        {
-            "region": "Counties Manukau",
-            "num_people": 7461,
-            "pct_people": "12.5%",
-            "num_tests": "",
-            "pop": 569400,
-            "rate_per_100": 13.1
-        },
-        {
-            "region": "Hawke&#39;s Bay",
-            "num_people": 2054,
-            "pct_people": "3.4%",
-            "num_tests": "",
-            "pop": 167200,
             "rate_per_100": 12.3
         },
         {
+            "region": "Capital and Coast",
+            "num_people": 5569,
+            "pct_people": "7.3%",
+            "num_tests": "",
+            "pop": 322000,
+            "rate_per_100": 17.3
+        },
+        {
+            "region": "Counties Manukau",
+            "num_people": 9361,
+            "pct_people": "12.3%",
+            "num_tests": "",
+            "pop": 569400,
+            "rate_per_100": 16.4
+        },
+        {
+            "region": "Hawke&#39;s Bay",
+            "num_people": 2715,
+            "pct_people": "3.6%",
+            "num_tests": "",
+            "pop": 167200,
+            "rate_per_100": 16.2
+        },
+        {
             "region": "Hutt Valley",
-            "num_people": 1881,
-            "pct_people": "3.2%",
+            "num_people": 2501,
+            "pct_people": "3.3%",
             "num_tests": "",
             "pop": 151100,
-            "rate_per_100": 12.4
+            "rate_per_100": 16.6
         },
         {
             "region": "Lakes",
-            "num_people": 1267,
+            "num_people": 1575,
             "pct_people": "2.1%",
             "num_tests": "",
             "pop": 110700,
-            "rate_per_100": 11.4
+            "rate_per_100": 14.2
         },
         {
             "region": "MidCentral",
-            "num_people": 1422,
-            "pct_people": "2.4%",
+            "num_people": 1887,
+            "pct_people": "2.5%",
             "num_tests": "",
             "pop": 181400,
-            "rate_per_100": 7.8
+            "rate_per_100": 10.4
         },
         {
             "region": "Nelson Marlborough",
-            "num_people": 1313,
-            "pct_people": "2.2%",
+            "num_people": 1755,
+            "pct_people": "2.3%",
             "num_tests": "",
             "pop": 152100,
-            "rate_per_100": 8.6
+            "rate_per_100": 11.5
         },
         {
             "region": "Northland",
-            "num_people": 2265,
-            "pct_people": "3.8%",
+            "num_people": 2737,
+            "pct_people": "3.6%",
             "num_tests": "",
             "pop": 182100,
-            "rate_per_100": 12.4
+            "rate_per_100": 15.0
         },
         {
             "region": "Overseas",
-            "num_people": 181,
+            "num_people": 205,
             "pct_people": "0.3%",
-            "num_tests": 235,
+            "num_tests": 264,
             "pop": "",
             "rate_per_100": ""
         },
         {
             "region": "South Canterbury",
-            "num_people": 521,
-            "pct_people": "0.9%",
-            "num_tests": 579,
+            "num_people": 755,
+            "pct_people": "1.0%",
+            "num_tests": 850,
             "pop": 60300,
-            "rate_per_100": 8.6
+            "rate_per_100": 12.5
         },
         {
             "region": "Southern",
-            "num_people": 4529,
-            "pct_people": "7.6%",
+            "num_people": 5921,
+            "pct_people": "7.8%",
             "num_tests": "",
             "pop": 334300,
-            "rate_per_100": 13.5
+            "rate_per_100": 17.7
         },
         {
             "region": "Tairawhiti",
-            "num_people": 454,
-            "pct_people": "0.8%",
-            "num_tests": 464,
+            "num_people": 736,
+            "pct_people": "1.0%",
+            "num_tests": 781,
             "pop": 49500,
-            "rate_per_100": 9.2
+            "rate_per_100": 14.9
         },
         {
             "region": "Taranaki",
-            "num_people": 964,
-            "pct_people": "1.6%",
-            "num_tests": 982,
+            "num_people": 1263,
+            "pct_people": "1.7%",
+            "num_tests": "",
             "pop": 121000,
-            "rate_per_100": 8.0
+            "rate_per_100": 10.4
         },
         {
             "region": "Waikato",
-            "num_people": 6566,
-            "pct_people": "11.0%",
+            "num_people": 8488,
+            "pct_people": "11.1%",
             "num_tests": "",
             "pop": 423300,
-            "rate_per_100": 15.5
+            "rate_per_100": 20.1
         },
         {
             "region": "Wairarapa",
-            "num_people": 955,
-            "pct_people": "1.6%",
+            "num_people": 1104,
+            "pct_people": "1.4%",
             "num_tests": "",
             "pop": 46200,
-            "rate_per_100": 20.7
+            "rate_per_100": 23.9
         },
         {
             "region": "Waitemata",
-            "num_people": 7858,
-            "pct_people": "13.2%",
+            "num_people": 9899,
+            "pct_people": "13.0%",
             "num_tests": "",
             "pop": 633600,
-            "rate_per_100": 12.4
+            "rate_per_100": 15.6
         },
         {
             "region": "West Coast",
-            "num_people": 379,
+            "num_people": 477,
             "pct_people": "0.6%",
-            "num_tests": 386,
+            "num_tests": 501,
             "pop": 32500,
-            "rate_per_100": 11.7
+            "rate_per_100": 14.7
         },
         {
             "region": "Whanganui",
-            "num_people": 423,
-            "pct_people": "0.7%",
-            "num_tests": 438,
+            "num_people": 618,
+            "pct_people": "0.8%",
+            "num_tests": 673,
             "pop": 65400,
-            "rate_per_100": 6.5
+            "rate_per_100": 9.4
         },
         {
             "region": "-",
