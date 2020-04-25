@@ -231,12 +231,17 @@
         {
             "date": "22-Apr",
             "count": 6480,
-            "total": ""
+            "total": 101277
         },
         {
             "date": "23-Apr",
             "count": 6961,
-            "total": ""
+            "total": 108238
+        },
+        {
+            "date": "24-Apr",
+            "count": 6777,
+            "total": 115015
         }
     ]
 }
