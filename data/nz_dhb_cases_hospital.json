@@ -5,14 +5,10 @@
     "data": [
         {
             "dhb": "Auckland",
-            "cases": 4
+            "cases": 3
         },
         {
             "dhb": "Bay of Plenty",
-            "cases": 1
-        },
-        {
-            "dhb": "Counties Manukau (Middlemore)",
             "cases": 1
         },
         {
@@ -21,7 +17,7 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "cases": 2
+            "cases": 1
         }
     ]
 }
