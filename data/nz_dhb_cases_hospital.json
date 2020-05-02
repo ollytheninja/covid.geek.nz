@@ -2,26 +2,5 @@
     "_meta": {
         "url": "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases"
     },
-    "data": [
-        {
-            "dhb": "Auckland",
-            "cases": 2
-        },
-        {
-            "dhb": "Bay of Plenty",
-            "cases": 1
-        },
-        {
-            "dhb": "Counties Manukau",
-            "cases": 1
-        },
-        {
-            "dhb": "South Canterbury",
-            "cases": 1
-        },
-        {
-            "dhb": "Waitemat\u0101",
-            "cases": 1
-        }
-    ]
+    "data": []
 }
