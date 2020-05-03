@@ -277,6 +277,11 @@
             "date": "1-May",
             "count": 5691,
             "total": 145589
+        },
+        {
+            "date": "2-May",
+            "count": 4634,
+            "total": 150223
         }
     ]
 }
