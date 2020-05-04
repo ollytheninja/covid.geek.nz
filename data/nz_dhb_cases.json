@@ -5,27 +5,27 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 24,
-            "recovered": 154,
+            "active": 26,
+            "recovered": 152,
             "deceased": "",
             "total": 178,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
-            "active": 10,
-            "recovered": 37,
+            "active": 7,
+            "recovered": 40,
             "deceased": "",
             "total": 47,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Canterbury",
-            "active": 34,
-            "recovered": 118,
+            "active": 29,
+            "recovered": 123,
             "deceased": 11,
             "total": 163,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Capital and Coast",
@@ -33,7 +33,7 @@
             "recovered": 88,
             "deceased": 2,
             "total": 95,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Counties Manukau",
@@ -41,7 +41,7 @@
             "recovered": 112,
             "deceased": "",
             "total": 127,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -49,7 +49,7 @@
             "recovered": 31,
             "deceased": "",
             "total": 44,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Hutt Valley",
@@ -57,7 +57,7 @@
             "recovered": 16,
             "deceased": "",
             "total": 20,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Lakes",
@@ -65,7 +65,7 @@
             "recovered": 14,
             "deceased": "",
             "total": 16,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Mid Central",
@@ -73,7 +73,7 @@
             "recovered": 30,
             "deceased": "",
             "total": 31,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Nelson Marlborough",
@@ -81,7 +81,7 @@
             "recovered": 46,
             "deceased": "",
             "total": 49,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Northland",
@@ -89,7 +89,7 @@
             "recovered": 24,
             "deceased": "",
             "total": 28,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "South Canterbury",
@@ -97,7 +97,7 @@
             "recovered": 12,
             "deceased": "",
             "total": 17,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Southern",
@@ -105,7 +105,7 @@
             "recovered": 205,
             "deceased": 2,
             "total": 216,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Tair\u0101whiti",
@@ -113,7 +113,7 @@
             "recovered": 4,
             "deceased": "",
             "total": 4,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Taranaki",
@@ -121,15 +121,15 @@
             "recovered": 14,
             "deceased": "",
             "total": 16,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Waikato",
-            "active": 34,
-            "recovered": 151,
+            "active": 33,
+            "recovered": 152,
             "deceased": 1,
             "total": 186,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Wairarapa",
@@ -137,15 +137,15 @@
             "recovered": 8,
             "deceased": "",
             "total": 8,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 36,
-            "recovered": 189,
+            "active": 33,
+            "recovered": 192,
             "deceased": 3,
             "total": 228,
-            "delta": 2
+            "delta": 0
         },
         {
             "dhb": "West Coast",
@@ -153,7 +153,7 @@
             "recovered": 4,
             "deceased": 1,
             "total": 5,
-            "delta": ""
+            "delta": 0
         },
         {
             "dhb": "Whanganui",
@@ -161,7 +161,7 @@
             "recovered": 9,
             "deceased": "",
             "total": 9,
-            "delta": ""
+            "delta": 0
         }
     ]
 }
