@@ -5,16 +5,16 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 26,
-            "recovered": 152,
+            "active": 24,
+            "recovered": 153,
             "deceased": "",
-            "total": 178,
-            "delta": 0
+            "total": 177,
+            "delta": -1
         },
         {
             "dhb": "Bay of Plenty",
-            "active": 7,
-            "recovered": 40,
+            "active": 1,
+            "recovered": 46,
             "deceased": "",
             "total": 47,
             "delta": 0
@@ -45,8 +45,8 @@
         },
         {
             "dhb": "Hawke&#39;s Bay",
-            "active": 13,
-            "recovered": 31,
+            "active": 11,
+            "recovered": 33,
             "deceased": "",
             "total": 44,
             "delta": 0
@@ -61,8 +61,8 @@
         },
         {
             "dhb": "Lakes",
-            "active": 2,
-            "recovered": 14,
+            "active": 0,
+            "recovered": 16,
             "deceased": "",
             "total": 16,
             "delta": 0
@@ -93,8 +93,8 @@
         },
         {
             "dhb": "South Canterbury",
-            "active": 5,
-            "recovered": 12,
+            "active": 4,
+            "recovered": 13,
             "deceased": "",
             "total": 17,
             "delta": 0
@@ -117,16 +117,16 @@
         },
         {
             "dhb": "Taranaki",
-            "active": 2,
-            "recovered": 14,
+            "active": 0,
+            "recovered": 16,
             "deceased": "",
             "total": 16,
             "delta": 0
         },
         {
             "dhb": "Waikato",
-            "active": 33,
-            "recovered": 152,
+            "active": 21,
+            "recovered": 164,
             "deceased": 1,
             "total": 186,
             "delta": 0
