@@ -5,25 +5,25 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 24,
-            "recovered": 153,
+            "active": 23,
+            "recovered": 155,
             "deceased": "",
-            "total": 177,
-            "delta": -1
+            "total": 178,
+            "delta": 1
         },
         {
             "dhb": "Bay of Plenty",
-            "active": 1,
-            "recovered": 46,
+            "active": 0,
+            "recovered": 47,
             "deceased": "",
             "total": 47,
             "delta": 0
         },
         {
             "dhb": "Canterbury",
-            "active": 29,
-            "recovered": 123,
-            "deceased": 11,
+            "active": 23,
+            "recovered": 128,
+            "deceased": 12,
             "total": 163,
             "delta": 0
         },
@@ -125,8 +125,8 @@
         },
         {
             "dhb": "Waikato",
-            "active": 21,
-            "recovered": 164,
+            "active": 19,
+            "recovered": 166,
             "deceased": 1,
             "total": 186,
             "delta": 0
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 33,
-            "recovered": 192,
+            "active": 30,
+            "recovered": 196,
             "deceased": 3,
-            "total": 228,
-            "delta": 0
+            "total": 229,
+            "delta": 1
         },
         {
             "dhb": "West Coast",
