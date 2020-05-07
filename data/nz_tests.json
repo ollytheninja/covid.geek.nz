@@ -296,7 +296,12 @@
         {
             "date": "5-May",
             "count": 4772,
-            "total": ""
+            "total": 160700
+        },
+        {
+            "date": "6-May",
+            "count": 7323,
+            "total": 168023
         }
     ]
 }
