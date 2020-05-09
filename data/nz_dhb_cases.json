@@ -5,8 +5,8 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 18,
-            "recovered": 160,
+            "active": 16,
+            "recovered": 162,
             "deceased": "",
             "total": 178,
             "delta": 0
@@ -21,8 +21,8 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 15,
-            "recovered": 136,
+            "active": 10,
+            "recovered": 141,
             "deceased": 12,
             "total": 163,
             "delta": 0
@@ -37,24 +37,24 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 11,
-            "recovered": 116,
+            "active": 10,
+            "recovered": 117,
             "deceased": "",
             "total": 127,
             "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
-            "active": 10,
-            "recovered": 34,
+            "active": 9,
+            "recovered": 35,
             "deceased": "",
             "total": 44,
             "delta": 0
         },
         {
             "dhb": "Hutt Valley",
-            "active": 2,
-            "recovered": 18,
+            "active": 0,
+            "recovered": 20,
             "deceased": "",
             "total": 20,
             "delta": 0
@@ -85,8 +85,8 @@
         },
         {
             "dhb": "Northland",
-            "active": 4,
-            "recovered": 24,
+            "active": 1,
+            "recovered": 27,
             "deceased": "",
             "total": 28,
             "delta": 0
@@ -101,8 +101,8 @@
         },
         {
             "dhb": "Southern",
-            "active": 7,
-            "recovered": 207,
+            "active": 8,
+            "recovered": 206,
             "deceased": 2,
             "total": 216,
             "delta": 0
@@ -125,8 +125,8 @@
         },
         {
             "dhb": "Waikato",
-            "active": 19,
-            "recovered": 167,
+            "active": 16,
+            "recovered": 170,
             "deceased": 1,
             "total": 187,
             "delta": 0
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 29,
-            "recovered": 198,
+            "active": 26,
+            "recovered": 203,
             "deceased": 3,
-            "total": 230,
-            "delta": 1
+            "total": 232,
+            "delta": 2
         },
         {
             "dhb": "West Coast",
