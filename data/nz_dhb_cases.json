@@ -9,7 +9,7 @@
             "recovered": 171,
             "deceased": "",
             "total": 178,
-            "delta": -1
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -21,8 +21,8 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 9,
-            "recovered": 142,
+            "active": 7,
+            "recovered": 144,
             "deceased": 12,
             "total": 163,
             "delta": 0
@@ -37,16 +37,16 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 4,
-            "recovered": 123,
+            "active": 3,
+            "recovered": 124,
             "deceased": "",
             "total": 127,
             "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
-            "active": 8,
-            "recovered": 36,
+            "active": 6,
+            "recovered": 38,
             "deceased": "",
             "total": 44,
             "delta": 0
@@ -77,8 +77,8 @@
         },
         {
             "dhb": "Nelson Marlborough",
-            "active": 2,
-            "recovered": 47,
+            "active": 1,
+            "recovered": 48,
             "deceased": "",
             "total": 49,
             "delta": 0
@@ -101,8 +101,8 @@
         },
         {
             "dhb": "Southern",
-            "active": 7,
-            "recovered": 207,
+            "active": 4,
+            "recovered": 210,
             "deceased": 2,
             "total": 216,
             "delta": 0
@@ -142,9 +142,9 @@
         {
             "dhb": "Waitemat\u0101",
             "active": 20,
-            "recovered": 212,
+            "recovered": 213,
             "deceased": 3,
-            "total": 235,
+            "total": 236,
             "delta": 1
         },
         {
