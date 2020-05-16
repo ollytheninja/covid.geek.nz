@@ -21,8 +21,8 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 7,
-            "recovered": 144,
+            "active": 5,
+            "recovered": 146,
             "deceased": 12,
             "total": 163,
             "delta": 0
@@ -45,8 +45,8 @@
         },
         {
             "dhb": "Hawke&#39;s Bay",
-            "active": 6,
-            "recovered": 38,
+            "active": 5,
+            "recovered": 39,
             "deceased": "",
             "total": 44,
             "delta": 0
@@ -93,16 +93,16 @@
         },
         {
             "dhb": "South Canterbury",
-            "active": 1,
-            "recovered": 16,
+            "active": 0,
+            "recovered": 17,
             "deceased": "",
             "total": 17,
             "delta": 0
         },
         {
             "dhb": "Southern",
-            "active": 4,
-            "recovered": 210,
+            "active": 1,
+            "recovered": 213,
             "deceased": 2,
             "total": 216,
             "delta": 0
@@ -145,7 +145,7 @@
             "recovered": 213,
             "deceased": 3,
             "total": 236,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "West Coast",
