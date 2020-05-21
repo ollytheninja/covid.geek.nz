@@ -5,11 +5,11 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 4,
-            "recovered": 173,
+            "active": 3,
+            "recovered": 174,
             "deceased": "",
             "total": 177,
-            "delta": -1
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -21,8 +21,8 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 5,
-            "recovered": 147,
+            "active": 3,
+            "recovered": 149,
             "deceased": 12,
             "total": 164,
             "delta": 0
@@ -41,7 +41,7 @@
             "recovered": 129,
             "deceased": "",
             "total": 132,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -101,8 +101,8 @@
         },
         {
             "dhb": "Southern",
-            "active": 1,
-            "recovered": 213,
+            "active": 0,
+            "recovered": 214,
             "deceased": 2,
             "total": 216,
             "delta": 0
@@ -141,8 +141,8 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 15,
-            "recovered": 218,
+            "active": 14,
+            "recovered": 219,
             "deceased": 3,
             "total": 236,
             "delta": 0
