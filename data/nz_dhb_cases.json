@@ -6,10 +6,10 @@
         {
             "dhb": "Auckland",
             "active": 3,
-            "recovered": 174,
+            "recovered": 175,
             "deceased": "",
-            "total": 177,
-            "delta": 0
+            "total": 178,
+            "delta": 1
         },
         {
             "dhb": "Bay of Plenty",
@@ -21,8 +21,8 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 3,
-            "recovered": 149,
+            "active": 2,
+            "recovered": 150,
             "deceased": 12,
             "total": 164,
             "delta": 0
@@ -37,8 +37,8 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 3,
-            "recovered": 129,
+            "active": 2,
+            "recovered": 130,
             "deceased": "",
             "total": 132,
             "delta": 0
