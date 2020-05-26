@@ -45,8 +45,8 @@
         },
         {
             "dhb": "Hawke&#39;s Bay",
-            "active": 5,
-            "recovered": 39,
+            "active": 0,
+            "recovered": 44,
             "deceased": "",
             "total": 44,
             "delta": 0
