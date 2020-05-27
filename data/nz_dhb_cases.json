@@ -77,8 +77,8 @@
         },
         {
             "dhb": "Nelson Marlborough",
-            "active": 1,
-            "recovered": 48,
+            "active": 0,
+            "recovered": 49,
             "deceased": "",
             "total": 49,
             "delta": 0
