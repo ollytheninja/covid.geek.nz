@@ -5,8 +5,8 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 3,
-            "recovered": 175,
+            "active": 2,
+            "recovered": 176,
             "deceased": "",
             "total": 178,
             "delta": 0
@@ -21,8 +21,8 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 2,
-            "recovered": 150,
+            "active": 0,
+            "recovered": 152,
             "deceased": 12,
             "total": 164,
             "delta": 0
@@ -125,8 +125,8 @@
         },
         {
             "dhb": "Waikato",
-            "active": 1,
-            "recovered": 186,
+            "active": 0,
+            "recovered": 187,
             "deceased": 1,
             "total": 188,
             "delta": 0
@@ -141,9 +141,9 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 14,
-            "recovered": 219,
-            "deceased": 3,
+            "active": 5,
+            "recovered": 227,
+            "deceased": 4,
             "total": 236,
             "delta": 0
         },
