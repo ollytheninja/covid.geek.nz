@@ -5,8 +5,8 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 2,
-            "recovered": 176,
+            "active": 1,
+            "recovered": 177,
             "deceased": "",
             "total": 178,
             "delta": 0
@@ -37,8 +37,8 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 1,
-            "recovered": 131,
+            "active": 0,
+            "recovered": 132,
             "deceased": "",
             "total": 132,
             "delta": 0
@@ -141,8 +141,8 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 5,
-            "recovered": 227,
+            "active": 0,
+            "recovered": 232,
             "deceased": 4,
             "total": 236,
             "delta": 0
