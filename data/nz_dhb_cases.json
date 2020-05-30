@@ -38,9 +38,9 @@
         {
             "dhb": "Counties Manukau",
             "active": 0,
-            "recovered": 132,
+            "recovered": 131,
             "deceased": "",
-            "total": 132,
+            "total": 131,
             "delta": 0
         },
         {
@@ -142,9 +142,9 @@
         {
             "dhb": "Waitemat\u0101",
             "active": 0,
-            "recovered": 232,
+            "recovered": 233,
             "deceased": 4,
-            "total": 236,
+            "total": 237,
             "delta": 0
         },
         {
