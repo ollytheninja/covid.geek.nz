@@ -4,7 +4,7 @@
     },
     "data": [
         {
-            "date": "22 Jan - 8 Mar",
+            "date": "22 Jan &ndash; 8 Mar",
             "count": "",
             "total": 300
         },
@@ -235,7 +235,7 @@
         },
         {
             "date": "23-Apr",
-            "count": 6961,
+            "count": "",
             "total": 108238
         },
         {
@@ -366,7 +366,7 @@
         {
             "date": "19-May",
             "count": 4882,
-            "total": 238745
+            "total": 238725
         },
         {
             "date": "20-May",
@@ -417,6 +417,11 @@
             "date": "29-May",
             "count": 3020,
             "total": 278872
+        },
+        {
+            "date": "30-May",
+            "count": 2111,
+            "total": 280983
         }
     ]
 }
