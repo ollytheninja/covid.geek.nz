@@ -462,6 +462,11 @@
             "date": "7-June",
             "count": 800,
             "total": 294848
+        },
+        {
+            "date": "8-June",
+            "count": 1053,
+            "total": 295901
         }
     ]
 }
