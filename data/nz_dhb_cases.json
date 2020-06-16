@@ -53,11 +53,11 @@
         },
         {
             "dhb": "Hutt Valley",
-            "active": 0,
+            "active": 2,
             "recovered": 20,
             "deceased": "",
-            "total": 20,
-            "delta": 0
+            "total": 22,
+            "delta": 2
         },
         {
             "dhb": "Lakes",
