@@ -37,11 +37,11 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 0,
+            "active": 1,
             "recovered": 131,
             "deceased": "",
-            "total": 131,
-            "delta": 0
+            "total": 132,
+            "delta": 1
         },
         {
             "dhb": "Hawke&#39;s Bay",
