@@ -5,7 +5,7 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 0,
+            "active": 2,
             "recovered": 178,
             "deceased": "",
             "total": 180,
