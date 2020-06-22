@@ -8,8 +8,8 @@
             "active": 0,
             "recovered": 178,
             "deceased": "",
-            "total": 178,
-            "delta": 0
+            "total": 180,
+            "delta": 2
         },
         {
             "dhb": "Bay of Plenty",
@@ -41,7 +41,7 @@
             "recovered": 131,
             "deceased": "",
             "total": 136,
-            "delta": 2
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
