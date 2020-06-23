@@ -9,7 +9,7 @@
             "recovered": 178,
             "deceased": "",
             "total": 180,
-            "delta": 2
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -37,11 +37,11 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 5,
+            "active": 7,
             "recovered": 131,
             "deceased": "",
-            "total": 136,
-            "delta": 0
+            "total": 138,
+            "delta": 2
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -53,8 +53,8 @@
         },
         {
             "dhb": "Hutt Valley",
-            "active": 2,
-            "recovered": 20,
+            "active": 1,
+            "recovered": 21,
             "deceased": "",
             "total": 22,
             "delta": 0

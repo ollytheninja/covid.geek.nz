@@ -530,8 +530,13 @@
         },
         {
             "date": "21-June",
-            "count": "",
+            "count": 3402,
             "total": 344519
+        },
+        {
+            "date": "22-June",
+            "count": 4303,
+            "total": 348822
         }
     ]
 }
