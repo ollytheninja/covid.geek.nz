@@ -5,11 +5,11 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 2,
+            "active": 1,
             "recovered": 178,
             "deceased": "",
-            "total": 180,
-            "delta": 0
+            "total": 179,
+            "delta": -1
         },
         {
             "dhb": "Bay of Plenty",
@@ -37,10 +37,10 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 7,
+            "active": 9,
             "recovered": 131,
             "deceased": "",
-            "total": 138,
+            "total": 140,
             "delta": 2
         },
         {
