@@ -9,7 +9,7 @@
             "recovered": 178,
             "deceased": "",
             "total": 179,
-            "delta": -1
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -21,11 +21,11 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 0,
+            "active": 2,
             "recovered": 152,
             "deceased": 12,
-            "total": 164,
-            "delta": 0
+            "total": 166,
+            "delta": 2
         },
         {
             "dhb": "Capital and Coast",
@@ -41,7 +41,7 @@
             "recovered": 131,
             "deceased": "",
             "total": 140,
-            "delta": 2
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -53,8 +53,8 @@
         },
         {
             "dhb": "Hutt Valley",
-            "active": 1,
-            "recovered": 21,
+            "active": 0,
+            "recovered": 22,
             "deceased": "",
             "total": 22,
             "delta": 0
@@ -93,11 +93,11 @@
         },
         {
             "dhb": "South Canterbury",
-            "active": 0,
+            "active": 1,
             "recovered": 17,
             "deceased": "",
-            "total": 17,
-            "delta": 0
+            "total": 18,
+            "delta": 1
         },
         {
             "dhb": "Southern",
