@@ -5,10 +5,10 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 1,
+            "active": 0,
             "recovered": 178,
             "deceased": "",
-            "total": 179,
+            "total": 178,
             "delta": 0
         },
         {
@@ -21,11 +21,11 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 2,
+            "active": 0,
             "recovered": 152,
             "deceased": 12,
-            "total": 166,
-            "delta": 2
+            "total": 164,
+            "delta": 0
         },
         {
             "dhb": "Capital and Coast",
@@ -37,10 +37,10 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 9,
+            "active": 0,
             "recovered": 131,
             "deceased": "",
-            "total": 140,
+            "total": 131,
             "delta": 0
         },
         {
@@ -93,11 +93,11 @@
         },
         {
             "dhb": "South Canterbury",
-            "active": 1,
+            "active": 0,
             "recovered": 17,
             "deceased": "",
-            "total": 18,
-            "delta": 1
+            "total": 17,
+            "delta": 0
         },
         {
             "dhb": "Southern",
@@ -162,6 +162,14 @@
             "deceased": "",
             "total": 9,
             "delta": 0
+        },
+        {
+            "dhb": "Managed Isolation",
+            "active": 13,
+            "recovered": 0,
+            "deceased": 0,
+            "total": 13,
+            "delta": 3
         }
     ]
 }
