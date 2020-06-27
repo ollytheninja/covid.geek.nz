@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation",
-            "active": 14,
+            "active": 16,
             "recovered": 0,
             "deceased": 0,
-            "total": 14,
-            "delta": 1
+            "total": 16,
+            "delta": 2
         }
     ]
 }
