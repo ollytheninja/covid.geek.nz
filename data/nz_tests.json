@@ -632,6 +632,11 @@
             "date": "11-July",
             "count": 1824,
             "total": 428600
+        },
+        {
+            "date": "12-July",
+            "count": 1043,
+            "total": 429643
         }
     ]
 }
