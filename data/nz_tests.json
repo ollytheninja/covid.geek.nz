@@ -702,6 +702,11 @@
             "date": "25-July",
             "count": 1754,
             "total": 455677
+        },
+        {
+            "date": "26-July",
+            "count": 550,
+            "total": 456227
         }
     ]
 }
