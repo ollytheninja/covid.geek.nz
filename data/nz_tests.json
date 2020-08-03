@@ -737,6 +737,11 @@
             "date": "1-August",
             "count": 2401,
             "total": 470469
+        },
+        {
+            "date": "2-August",
+            "count": 1692,
+            "total": 472161
         }
     ]
 }
