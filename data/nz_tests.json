@@ -734,14 +734,19 @@
             "total": 468068
         },
         {
-            "date": "1-August",
+            "date": "1-Aug",
             "count": 2401,
             "total": 470469
         },
         {
-            "date": "2-August",
+            "date": "2-Aug",
             "count": 1692,
             "total": 472161
+        },
+        {
+            "date": "3-Aug",
+            "count": 1608,
+            "total": 473769
         }
     ]
 }
