@@ -165,8 +165,8 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 23,
-            "recovered": 40,
+            "active": 21,
+            "recovered": 42,
             "deceased": 0,
             "total": 63,
             "delta": 0
