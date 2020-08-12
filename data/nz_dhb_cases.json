@@ -37,11 +37,11 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 0,
+            "active": 6,
             "recovered": 132,
             "deceased": 0,
-            "total": 132,
-            "delta": 0
+            "total": 138,
+            "delta": 6
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 0,
+            "active": 2,
             "recovered": 234,
             "deceased": 4,
-            "total": 238,
-            "delta": 0
+            "total": 240,
+            "delta": 2
         },
         {
             "dhb": "West Coast",
@@ -165,10 +165,10 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 22,
-            "recovered": 42,
+            "active": 18,
+            "recovered": 47,
             "deceased": 0,
-            "total": 64,
+            "total": 65,
             "delta": 1
         }
     ]
