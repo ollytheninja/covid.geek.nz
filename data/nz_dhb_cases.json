@@ -14,9 +14,9 @@
         {
             "dhb": "Bay of Plenty",
             "active": 0,
-            "recovered": 47,
+            "recovered": 48,
             "deceased": 0,
-            "total": 47,
+            "total": 48,
             "delta": 0
         },
         {
@@ -126,9 +126,9 @@
         {
             "dhb": "Waikato",
             "active": 2,
-            "recovered": 187,
+            "recovered": 186,
             "deceased": 1,
-            "total": 190,
+            "total": 189,
             "delta": 2
         },
         {
