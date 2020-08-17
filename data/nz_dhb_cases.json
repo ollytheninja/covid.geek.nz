@@ -4,172 +4,108 @@
     },
     "data": [
         {
-            "dhb": "Auckland",
-            "active": 13,
-            "recovered": 176,
+            "dhb": "Northland",
+            "active": 0,
+            "recovered": 28,
             "deceased": 0,
-            "total": 189,
-            "delta": 5
+            "total": "",
+            "delta": 8
         },
         {
-            "dhb": "Bay of Plenty",
-            "active": 0,
-            "recovered": 48,
-            "deceased": 0,
-            "total": 48,
+            "dhb": "233",
+            "active": 4,
+            "recovered": "",
+            "deceased": 19,
+            "total": 176,
             "delta": 0
         },
         {
-            "dhb": "Canterbury",
-            "active": 0,
-            "recovered": 152,
-            "deceased": 12,
-            "total": 164,
-            "delta": 0
-        },
-        {
-            "dhb": "Capital and Coast",
-            "active": 0,
-            "recovered": 93,
-            "deceased": 2,
-            "total": 95,
-            "delta": 0
-        },
-        {
-            "dhb": "Counties Manukau",
-            "active": 28,
+            "dhb": "195</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">Counties Manukau",
+            "active": 31,
             "recovered": 133,
             "deceased": 0,
-            "total": 161,
-            "delta": 7
-        },
-        {
-            "dhb": "Hawke&#39;s Bay",
-            "active": 0,
-            "recovered": 44,
-            "deceased": 0,
-            "total": 44,
+            "total": "",
             "delta": 0
         },
         {
-            "dhb": "Hutt Valley",
-            "active": 0,
-            "recovered": 22,
-            "deceased": 0,
-            "total": 22,
-            "delta": 0
-        },
-        {
-            "dhb": "Lakes",
-            "active": 0,
-            "recovered": 16,
+            "dhb": "186",
+            "active": 1,
+            "recovered": "",
             "deceased": 0,
             "total": 16,
             "delta": 0
         },
         {
-            "dhb": "Mid Central",
+            "dhb": "16</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">Bay of Plenty",
             "active": 0,
-            "recovered": 32,
+            "recovered": 48,
+            "deceased": 0,
+            "total": "",
+            "delta": 0
+        },
+        {
+            "dhb": "4",
+            "active": 0,
+            "recovered": "",
+            "deceased": 0,
+            "total": 16,
+            "delta": 0
+        },
+        {
+            "dhb": "16</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">Hawke&#39;s Bay",
+            "active": 0,
+            "recovered": 44,
+            "deceased": 0,
+            "total": "",
+            "delta": 0
+        },
+        {
+            "dhb": "9",
+            "active": 0,
+            "recovered": "",
             "deceased": 0,
             "total": 32,
             "delta": 0
         },
         {
-            "dhb": "Nelson Marlborough",
+            "dhb": "32</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">Hutt Valley",
             "active": 0,
-            "recovered": 49,
+            "recovered": 22,
             "deceased": 0,
-            "total": 49,
+            "total": "",
             "delta": 0
         },
         {
-            "dhb": "Northland",
-            "active": 0,
-            "recovered": 28,
-            "deceased": 0,
-            "total": 28,
-            "delta": 0
-        },
-        {
-            "dhb": "South Canterbury",
-            "active": 0,
-            "recovered": 17,
-            "deceased": 0,
-            "total": 17,
-            "delta": 0
-        },
-        {
-            "dhb": "Southern",
-            "active": 0,
-            "recovered": 214,
-            "deceased": 2,
-            "total": 216,
-            "delta": 0
-        },
-        {
-            "dhb": "Tair\u0101whiti",
-            "active": 0,
-            "recovered": 4,
-            "deceased": 0,
-            "total": 4,
-            "delta": 0
-        },
-        {
-            "dhb": "Taranaki",
-            "active": 0,
-            "recovered": 16,
-            "deceased": 0,
-            "total": 16,
-            "delta": 0
-        },
-        {
-            "dhb": "Waikato",
-            "active": 0,
-            "recovered": 186,
-            "deceased": 1,
-            "total": 187,
-            "delta": ""
-        },
-        {
-            "dhb": "Wairarapa",
-            "active": 0,
-            "recovered": 8,
+            "dhb": "93",
+            "active": 2,
+            "recovered": "",
             "deceased": 0,
             "total": 8,
             "delta": 0
         },
         {
-            "dhb": "Waitemat\u0101",
-            "active": 8,
-            "recovered": 233,
-            "deceased": 4,
-            "total": 245,
-            "delta": 2
-        },
-        {
-            "dhb": "West Coast",
+            "dhb": "8</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">Nelson Marlborough",
             "active": 0,
-            "recovered": 4,
-            "deceased": 1,
-            "total": 5,
+            "recovered": 49,
+            "deceased": 0,
+            "total": "",
             "delta": 0
         },
         {
-            "dhb": "Whanganui",
-            "active": 0,
-            "recovered": 9,
+            "dhb": "4",
+            "active": 1,
+            "recovered": "",
             "deceased": 0,
-            "total": 9,
-            "delta": 0
+            "total": 152,
+            "delta": 12
         },
         {
-            "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 20,
-            "recovered": 47,
+            "dhb": "164</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">South Canterbury",
+            "active": 0,
+            "recovered": 17,
             "deceased": 0,
-            "total": 67,
-            "delta": 1
+            "total": "",
+            "delta": 0
         }
     ]
 }
