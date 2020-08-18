@@ -15,13 +15,13 @@
             "dhb": "233",
             "active": 4,
             "recovered": "",
-            "deceased": 19,
+            "deceased": 24,
             "total": 176,
             "delta": 0
         },
         {
-            "dhb": "195</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">Counties Manukau",
-            "active": 31,
+            "dhb": "200</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">Counties Manukau",
+            "active": 38,
             "recovered": 133,
             "deceased": 0,
             "total": "",
