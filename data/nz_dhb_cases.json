@@ -5,10 +5,10 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 30,
+            "active": 31,
             "recovered": 176,
             "deceased": 0,
-            "total": 206,
+            "total": 207,
             "delta": 1
         },
         {
@@ -41,7 +41,7 @@
             "recovered": 133,
             "deceased": 0,
             "total": 181,
-            "delta": 3
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -145,7 +145,7 @@
             "recovered": 233,
             "deceased": 4,
             "total": 253,
-            "delta": 2
+            "delta": 0
         },
         {
             "dhb": "West Coast",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 16,
+            "active": 18,
             "recovered": 54,
             "deceased": 0,
-            "total": 70,
-            "delta": 0
+            "total": 72,
+            "delta": 2
         }
     ]
 }
