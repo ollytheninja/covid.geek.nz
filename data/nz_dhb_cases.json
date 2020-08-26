@@ -9,7 +9,7 @@
             "recovered": 176,
             "deceased": 0,
             "total": 211,
-            "delta": 3
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -41,7 +41,7 @@
             "recovered": 133,
             "deceased": 0,
             "total": 190,
-            "delta": 3
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 17,
+            "active": 20,
             "recovered": 234,
             "deceased": 4,
-            "total": 255,
-            "delta": 1
+            "total": 258,
+            "delta": 3
         },
         {
             "dhb": "West Coast",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 19,
+            "active": 21,
             "recovered": 54,
             "deceased": 0,
-            "total": 73,
-            "delta": 0
+            "total": 75,
+            "delta": 2
         }
     ]
 }
