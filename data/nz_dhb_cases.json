@@ -9,7 +9,7 @@
             "recovered": 179,
             "deceased": 0,
             "total": 214,
-            "delta": 2
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -37,11 +37,11 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 53,
-            "recovered": 144,
+            "active": 51,
+            "recovered": 146,
             "deceased": 0,
             "total": 197,
-            "delta": 6
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -125,11 +125,11 @@
         },
         {
             "dhb": "Waikato",
-            "active": 1,
+            "active": 2,
             "recovered": 186,
             "deceased": 1,
-            "total": 188,
-            "delta": 0
+            "total": 189,
+            "delta": 1
         },
         {
             "dhb": "Wairarapa",
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 28,
+            "active": 29,
             "recovered": 238,
             "deceased": 4,
-            "total": 270,
-            "delta": 3
+            "total": 271,
+            "delta": 1
         },
         {
             "dhb": "West Coast",
@@ -169,7 +169,7 @@
             "recovered": 65,
             "deceased": 0,
             "total": 85,
-            "delta": 2
+            "delta": 0
         }
     ]
 }
