@@ -5,11 +5,11 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 26,
-            "recovered": 193,
+            "active": 24,
+            "recovered": 195,
             "deceased": 0,
             "total": 219,
-            "delta": 2
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -37,11 +37,11 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 39,
-            "recovered": 164,
+            "active": 31,
+            "recovered": 173,
             "deceased": 0,
-            "total": 203,
-            "delta": 0
+            "total": 204,
+            "delta": 1
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 27,
-            "recovered": 242,
+            "active": 22,
+            "recovered": 247,
             "deceased": 4,
             "total": 273,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "West Coast",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 35,
+            "active": 36,
             "recovered": 65,
             "deceased": 0,
-            "total": 100,
-            "delta": 2
+            "total": 101,
+            "delta": 1
         }
     ]
 }

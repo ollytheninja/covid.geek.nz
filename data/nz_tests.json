@@ -892,6 +892,11 @@
             "date": "1-Sept",
             "count": 10934,
             "total": 777560
+        },
+        {
+            "date": "2-Sept",
+            "count": 10521,
+            "total": 788081
         }
     ]
 }
