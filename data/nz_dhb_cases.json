@@ -5,8 +5,8 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 18,
-            "recovered": 203,
+            "active": 16,
+            "recovered": 205,
             "deceased": 1,
             "total": 222,
             "delta": 0
@@ -37,8 +37,8 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 18,
-            "recovered": 191,
+            "active": 13,
+            "recovered": 196,
             "deceased": 1,
             "total": 210,
             "delta": 0
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 33,
-            "recovered": 254,
+            "active": 28,
+            "recovered": 260,
             "deceased": 4,
-            "total": 291,
-            "delta": 2
+            "total": 292,
+            "delta": 1
         },
         {
             "dhb": "West Coast",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 38,
+            "active": 39,
             "recovered": 73,
             "deceased": 0,
-            "total": 111,
-            "delta": 0
+            "total": 112,
+            "delta": 1
         }
     ]
 }
