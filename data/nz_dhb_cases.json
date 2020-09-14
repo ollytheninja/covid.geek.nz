@@ -38,10 +38,10 @@
         {
             "dhb": "Counties Manukau",
             "active": 13,
-            "recovered": 196,
+            "recovered": 197,
             "deceased": 1,
-            "total": 210,
-            "delta": 0
+            "total": 211,
+            "delta": 1
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 28,
-            "recovered": 260,
+            "active": 27,
+            "recovered": 261,
             "deceased": 4,
             "total": 292,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "West Coast",
@@ -169,7 +169,7 @@
             "recovered": 73,
             "deceased": 0,
             "total": 112,
-            "delta": 1
+            "delta": 0
         }
     ]
 }
