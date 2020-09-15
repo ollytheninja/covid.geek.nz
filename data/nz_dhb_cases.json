@@ -5,8 +5,8 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 16,
-            "recovered": 205,
+            "active": 15,
+            "recovered": 206,
             "deceased": 1,
             "total": 222,
             "delta": 0
@@ -41,7 +41,7 @@
             "recovered": 197,
             "deceased": 1,
             "total": 211,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -141,8 +141,8 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 27,
-            "recovered": 261,
+            "active": 26,
+            "recovered": 262,
             "deceased": 4,
             "total": 292,
             "delta": 0
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 39,
-            "recovered": 73,
+            "active": 28,
+            "recovered": 87,
             "deceased": 0,
-            "total": 112,
-            "delta": 0
+            "total": 115,
+            "delta": 3
         }
     ]
 }
