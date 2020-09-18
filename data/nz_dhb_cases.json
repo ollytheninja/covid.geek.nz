@@ -5,8 +5,8 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 11,
-            "recovered": 210,
+            "active": 9,
+            "recovered": 212,
             "deceased": 1,
             "total": 222,
             "delta": 0
@@ -141,8 +141,8 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 22,
-            "recovered": 266,
+            "active": 17,
+            "recovered": 271,
             "deceased": 4,
             "total": 292,
             "delta": 0
@@ -169,7 +169,7 @@
             "recovered": 90,
             "deceased": 0,
             "total": 123,
-            "delta": 7
+            "delta": 0
         }
     ]
 }
