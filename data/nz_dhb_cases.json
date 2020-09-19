@@ -5,11 +5,11 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 8,
+            "active": 9,
             "recovered": 213,
             "deceased": 1,
-            "total": 222,
-            "delta": 0
+            "total": 223,
+            "delta": 1
         },
         {
             "dhb": "Bay of Plenty",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 34,
+            "active": 33,
             "recovered": 91,
             "deceased": 0,
-            "total": 125,
-            "delta": 2
+            "total": 124,
+            "delta": 1
         }
     ]
 }
