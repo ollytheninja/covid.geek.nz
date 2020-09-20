@@ -9,7 +9,7 @@
             "recovered": 213,
             "deceased": 1,
             "total": 223,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -37,11 +37,11 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 10,
+            "active": 12,
             "recovered": 200,
             "deceased": 1,
-            "total": 211,
-            "delta": 0
+            "total": 213,
+            "delta": 2
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 33,
+            "active": 35,
             "recovered": 91,
             "deceased": 0,
-            "total": 124,
-            "delta": 1
+            "total": 126,
+            "delta": 2
         }
     ]
 }
