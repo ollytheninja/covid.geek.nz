@@ -979,9 +979,14 @@
             "total": 905436
         },
         {
-            "date": "20-Sept",
+            "date": "19-Sept",
             "count": 5417,
             "total": 910853
+        },
+        {
+            "date": "20-Sept",
+            "count": 3568,
+            "total": 914421
         }
     ]
 }

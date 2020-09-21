@@ -41,7 +41,7 @@
             "recovered": 200,
             "deceased": 1,
             "total": 213,
-            "delta": 2
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -141,8 +141,8 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 15,
-            "recovered": 273,
+            "active": 12,
+            "recovered": 276,
             "deceased": 4,
             "total": 292,
             "delta": 0
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 35,
-            "recovered": 91,
+            "active": 29,
+            "recovered": 97,
             "deceased": 0,
             "total": 126,
-            "delta": 2
+            "delta": 0
         }
     ]
 }
