@@ -37,8 +37,8 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 12,
-            "recovered": 200,
+            "active": 11,
+            "recovered": 201,
             "deceased": 1,
             "total": 213,
             "delta": 0
