@@ -5,11 +5,11 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 9,
+            "active": 12,
             "recovered": 213,
             "deceased": 1,
-            "total": 223,
-            "delta": 0
+            "total": 226,
+            "delta": 3
         },
         {
             "dhb": "Bay of Plenty",
@@ -126,10 +126,10 @@
         {
             "dhb": "Waikato",
             "active": 0,
-            "recovered": 186,
+            "recovered": 192,
             "deceased": 2,
-            "total": 188,
-            "delta": 0
+            "total": 194,
+            "delta": 6
         },
         {
             "dhb": "Wairarapa",
@@ -141,8 +141,8 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 12,
-            "recovered": 276,
+            "active": 11,
+            "recovered": 277,
             "deceased": 4,
             "total": 292,
             "delta": 0
@@ -165,8 +165,8 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 29,
-            "recovered": 97,
+            "active": 28,
+            "recovered": 98,
             "deceased": 0,
             "total": 126,
             "delta": 0
