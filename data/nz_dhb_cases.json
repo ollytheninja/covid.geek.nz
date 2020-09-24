@@ -9,7 +9,7 @@
             "recovered": 213,
             "deceased": 1,
             "total": 226,
-            "delta": 3
+            "delta": 0
         },
         {
             "dhb": "Bay of Plenty",
@@ -129,7 +129,7 @@
             "recovered": 192,
             "deceased": 2,
             "total": 194,
-            "delta": 6
+            "delta": 0
         },
         {
             "dhb": "Wairarapa",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 28,
+            "active": 31,
             "recovered": 98,
             "deceased": 0,
-            "total": 126,
-            "delta": 0
+            "total": 129,
+            "delta": 3
         }
     ]
 }
