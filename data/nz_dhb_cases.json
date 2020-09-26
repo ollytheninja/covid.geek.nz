@@ -38,10 +38,10 @@
         {
             "dhb": "Counties Manukau",
             "active": 9,
-            "recovered": 203,
+            "recovered": 204,
             "deceased": 1,
-            "total": 213,
-            "delta": 0
+            "total": 214,
+            "delta": 1
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -145,7 +145,7 @@
             "recovered": 279,
             "deceased": 4,
             "total": 293,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "West Coast",
@@ -165,10 +165,10 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 29,
+            "active": 30,
             "recovered": 101,
             "deceased": 0,
-            "total": 130,
+            "total": 131,
             "delta": 1
         }
     ]
