@@ -41,7 +41,7 @@
             "recovered": 204,
             "deceased": 1,
             "total": 214,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "Hawke&#39;s Bay",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 30,
-            "recovered": 101,
+            "active": 28,
+            "recovered": 105,
             "deceased": 0,
-            "total": 131,
-            "delta": 1
+            "total": 133,
+            "delta": 2
         }
     ]
 }
