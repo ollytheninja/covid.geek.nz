@@ -5,8 +5,8 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 11,
-            "recovered": 214,
+            "active": 10,
+            "recovered": 215,
             "deceased": 1,
             "total": 226,
             "delta": 0
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 28,
-            "recovered": 105,
+            "active": 29,
+            "recovered": 106,
             "deceased": 0,
-            "total": 133,
-            "delta": 0
+            "total": 135,
+            "delta": 2
         }
     ]
 }
