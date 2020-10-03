@@ -5,8 +5,8 @@
     "data": [
         {
             "dhb": "Auckland",
-            "active": 4,
-            "recovered": 221,
+            "active": 2,
+            "recovered": 223,
             "deceased": 1,
             "total": 226,
             "delta": 0
@@ -37,8 +37,8 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 4,
-            "recovered": 209,
+            "active": 3,
+            "recovered": 210,
             "deceased": 1,
             "total": 214,
             "delta": 0
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 32,
+            "active": 33,
             "recovered": 116,
             "deceased": 0,
-            "total": 148,
-            "delta": 0
+            "total": 149,
+            "delta": 1
         }
     ]
 }
