@@ -141,8 +141,8 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 3,
-            "recovered": 286,
+            "active": 2,
+            "recovered": 287,
             "deceased": 4,
             "total": 293,
             "delta": 0
@@ -166,10 +166,10 @@
         {
             "dhb": "Managed Isolation &amp; Quarantine",
             "active": 34,
-            "recovered": 120,
+            "recovered": 121,
             "deceased": 0,
-            "total": 154,
-            "delta": 5
+            "total": 155,
+            "delta": 1
         }
     ]
 }
