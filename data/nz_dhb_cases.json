@@ -22,10 +22,10 @@
         {
             "dhb": "Canterbury",
             "active": 0,
-            "recovered": 152,
+            "recovered": 153,
             "deceased": 12,
-            "total": 164,
-            "delta": 0
+            "total": 165,
+            "delta": ""
         },
         {
             "dhb": "Capital and Coast",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 37,
+            "active": 39,
             "recovered": 124,
             "deceased": 0,
             "total": 161,
-            "delta": 3
+            "delta": 2
         }
     ]
 }
