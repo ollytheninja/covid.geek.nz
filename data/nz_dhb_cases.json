@@ -33,7 +33,7 @@
             "recovered": 94,
             "deceased": 2,
             "total": 96,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "Counties Manukau",
@@ -145,7 +145,7 @@
             "recovered": 289,
             "deceased": 4,
             "total": 294,
-            "delta": 1
+            "delta": 0
         },
         {
             "dhb": "West Coast",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 41,
-            "recovered": 142,
+            "active": 36,
+            "recovered": 147,
             "deceased": 0,
             "total": 183,
-            "delta": 1
+            "delta": 0
         }
     ]
 }
