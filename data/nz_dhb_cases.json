@@ -30,9 +30,9 @@
         {
             "dhb": "Capital and Coast",
             "active": 0,
-            "recovered": 94,
+            "recovered": 93,
             "deceased": 2,
-            "total": 96,
+            "total": 95,
             "delta": 0
         },
         {
@@ -141,11 +141,11 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 2,
+            "active": 3,
             "recovered": 289,
             "deceased": 4,
-            "total": 295,
-            "delta": 0
+            "total": 296,
+            "delta": 1
         },
         {
             "dhb": "West Coast",
@@ -165,11 +165,11 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 55,
-            "recovered": 154,
+            "active": 62,
+            "recovered": 156,
             "deceased": 0,
-            "total": 209,
-            "delta": 2
+            "total": 218,
+            "delta": 8
         }
     ]
 }
