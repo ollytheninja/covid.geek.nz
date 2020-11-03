@@ -21,11 +21,11 @@
         },
         {
             "dhb": "Canterbury",
-            "active": 0,
+            "active": 1,
             "recovered": 153,
             "deceased": 12,
-            "total": 165,
-            "delta": 0
+            "total": 166,
+            "delta": 1
         },
         {
             "dhb": "Capital and Coast",
@@ -37,8 +37,8 @@
         },
         {
             "dhb": "Counties Manukau",
-            "active": 1,
-            "recovered": 213,
+            "active": 0,
+            "recovered": 214,
             "deceased": 1,
             "total": 215,
             "delta": 0
@@ -141,8 +141,8 @@
         },
         {
             "dhb": "Waitemat\u0101",
-            "active": 3,
-            "recovered": 289,
+            "active": 1,
+            "recovered": 291,
             "deceased": 4,
             "total": 296,
             "delta": 0
@@ -165,10 +165,10 @@
         },
         {
             "dhb": "Managed Isolation &amp; Quarantine",
-            "active": 77,
-            "recovered": 181,
+            "active": 73,
+            "recovered": 189,
             "deceased": 0,
-            "total": 258,
+            "total": 262,
             "delta": 4
         }
     ]
